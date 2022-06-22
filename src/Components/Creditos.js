@@ -1,5 +1,5 @@
-import React from "react";
-import styled from "styled-components";
+import React from "react"
+import styled from "styled-components"
 
 const BoxCreditos = styled.div`
   width: 100%;
@@ -10,7 +10,7 @@ const BoxCreditos = styled.div`
   justify-content: center;
   align-items: center;
   font-size: 2.3vh;
-`;
+`
 export default function Creditos() {
   return (
     <>
@@ -22,5 +22,5 @@ export default function Creditos() {
         </p>
       </BoxCreditos>
     </>
-  );
+  )
 }

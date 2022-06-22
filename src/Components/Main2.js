@@ -1,6 +1,6 @@
-import React from "react";
-import * as S from "./StyleMain2";
-import Sal from "../Imgs/Sal.png";
+import React from "react"
+import * as S from "./StyleMain2"
+import Sal from "../Imgs/Sal.png"
 
 export default function Main2() {
   return (
@@ -22,5 +22,5 @@ export default function Main2() {
         </S.P>
       </S.BoxDialogo>
     </S.Container>
-  );
+  )
 }
